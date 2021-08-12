@@ -30,7 +30,7 @@ body {
   display: inline-block;
 }
 .main-header__brand img {
-  height: 100%;
+  height: 22px;
 }
 
 .main-nav {
